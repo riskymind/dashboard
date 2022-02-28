@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="calendar">Calendar</string>
+    <string name="exercise">Exercise</string>
+    <string name="settings">Settings</string>
+    <string name="good_morning_kaylayshi">Good morning Kaylayshi</string>
+    <string name="search">search</string>
+    <string name="hospital">Hospital</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="lab">Lab</string>
+    <string name="telemedicine">Telemedicine</string>
+</resources>
